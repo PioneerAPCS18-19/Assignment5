@@ -9,6 +9,8 @@ You will be using methods and fields from the `Math` class in order to generate 
 3. Evaluate for the function value.
 4. Print the point.
 
+`3sin(x - 3pi/4) + 1`
+
 ### Sample Outputs
 
 ```
