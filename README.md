@@ -10,6 +10,7 @@ You will be using methods and fields from the `Math` class in order to generate 
 4. Print the point.
 
 Please use the following function:
+
 ![alt text](https://i.imgur.com/i4hOmrX.png)
 
 Note: I want you to use the field for pi and methods for sine and conversion from degrees to radians.
